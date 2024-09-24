@@ -56,3 +56,7 @@ This repository contains Python projects developed during my **Programming II** 
 - GeoPandas
 - Pillow (PIL)
 - SciPy
+
+## Course and Context:
+
+These projects were developed as part of my coursework in the Programming II class during my undergraduate studies. They focus on applying programming techniques to solve real-world problems in text processing, data analysis, and visualization, while utilizing advanced Python libraries to work with complex datasets and structures.
